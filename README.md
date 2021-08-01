@@ -1,10 +1,7 @@
 # Registro-de-Gastos-transparente
-Formar una plataforma  para cumplir la ley de transparencia donde se solicite  todo tipo de informacion que se va a convertir en publica 
-
-
-![image](https://user-images.githubusercontent.com/86860451/127765285-cc52f3de-5eaf-4d0b-bafa-c6adc0b1ce7b.png)
-
-SLA compuesto = 99,96%
+En el gobierno del Estado de Sonora se necesita implementar una plataforma para cumplir la ley de transparencia de informacion donde todas las depenncias guarden en un repositorio central, los cuales pueden ser  solicitados por el publico en general
+![image](https://user-images.githubusercontent.com/86860451/127774726-3ba752f9-a937-4a8c-bff2-28f6e519337e.png)
+vpn gateway 99.95%, firewall 99.95%, Mysql 99.99%, Blob 99.99%, Functions 99.95%SLA compuesto = 99,83%
 
 ![ahorro 3 años_page-0001](https://user-images.githubusercontent.com/86860451/127763807-c414847c-9f59-4ea1-b740-25957def5425.jpg)
 ![ahorro 3 años_page-0002](https://user-images.githubusercontent.com/86860451/127763814-0c0645d7-c1ad-4ece-a129-b86a7e9e18be.jpg)
@@ -19,6 +16,5 @@ SLA compuesto = 99,96%
 ![ahorro 3 años_page-0011](https://user-images.githubusercontent.com/86860451/127763867-af672afc-c591-4293-b416-26fe2ae099e7.jpg)
 
 
-Tiempo sin disponibilidad en un año = 210.24 minutos 
-
-Se me hizo un evento muy completo en el cual pudimos experimentar lo que va a  ser el mundo real en nuestros trabajos, resolviendo un problema con los recursos aprendidos anteriormente 
+Tiempo sin disponibilidad en un año = 893.23 minutos 
+Se nos hizo un evento muy completo en el cual pudimos experimentar lo que va a  ser el mundo real en nuestros trabajos, resolviendo un problema con los recursos aprendidos anteriormente.
