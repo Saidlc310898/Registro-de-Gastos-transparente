@@ -18,3 +18,9 @@ vpn gateway 99.95%, firewall 99.95%, Mysql 99.99%, Blob 99.99%, Functions 99.95%
 
 Tiempo sin disponibilidad en un año = 893.23 minutos 
 Se nos hizo un evento muy completo en el cual pudimos experimentar lo que va a  ser el mundo real en nuestros trabajos, resolviendo un problema con los recursos aprendidos anteriormente.
+
+Participantes 
+Luis Javier Cortazar  cv5267@innovaccion.mx
+Carlos Said López Castillo cv5890@innovaccion.mx
+Daniel Adriel Lucero Sigcho cv6519@innovaccion.mx
+Mauricio Gabriel Flores cv5075@innovaccion.mx
