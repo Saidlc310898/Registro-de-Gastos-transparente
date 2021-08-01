@@ -1,6 +1,11 @@
 # Registro-de-Gastos-transparente
 En el gobierno del Estado de Sonora se necesita implementar una plataforma para cumplir la ley de transparencia de informacion donde todas las depenncias guarden en un repositorio central, los cuales pueden ser  solicitados por el publico en general
+
+https://vm.tiktok.com/ZMd3ejFTd/
+
 ![image](https://user-images.githubusercontent.com/86860451/127774726-3ba752f9-a937-4a8c-bff2-28f6e519337e.png)
+
+
 vpn gateway 99.95%, firewall 99.95%, Mysql 99.99%, Blob 99.99%, Functions 99.95%SLA compuesto = 99,83%
 
 ![ahorro 3 años_page-0001](https://user-images.githubusercontent.com/86860451/127763807-c414847c-9f59-4ea1-b740-25957def5425.jpg)
@@ -17,7 +22,9 @@ vpn gateway 99.95%, firewall 99.95%, Mysql 99.99%, Blob 99.99%, Functions 99.95%
 
 
 Tiempo sin disponibilidad en un año = 893.23 minutos 
+
 Se nos hizo un evento muy completo en el cual pudimos experimentar lo que va a  ser el mundo real en nuestros trabajos, resolviendo un problema con los recursos aprendidos anteriormente.
+
 
 Participantes 
 Luis Javier Cortazar  cv5267@innovaccion.mx
